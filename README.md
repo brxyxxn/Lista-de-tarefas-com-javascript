@@ -1,0 +1,1 @@
+Um projeto simples de lista de tarefas desenvolvido com [tecnologias utilizadas, ex: HTML, CSS e JavaScript]. Permite adicionar e excluir tarefas, e quando fechada a página, as tarefas que estavam lá ficam salvas.
